@@ -1,5 +1,5 @@
-# Codeplex Archive Archive
-With Microsoft pulling the plug on Codeplex in favor of GitHub after their acquiral, what was left was the Codeplex Archive. This lasted 3 years. Now it's 2021, and Microsoft is about to pull the plug on the Codeplex archive. This repository will contain hopefully all of Codeplex's uploaded works.
+# CodePlex Archive Archive
+With Microsoft pulling the plug on CodePlex in favor of GitHub after their acquiral, what was left was the CodePlex Archive. This lasted 3 years. Now it's 2021, and Microsoft is about to pull the plug on the CodePlex archive. This repository will contain hopefully all of CodePlex's uploaded works.
 
 ## Microsoft's message
 CodePlex Archive will be shut down after July 1st, 2021.
